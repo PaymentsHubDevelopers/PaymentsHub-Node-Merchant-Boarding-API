@@ -8,6 +8,6 @@ To get started, create a free [Payments Hub Developer Portal account](https://de
 When you're ready to start building your app, you can follow along with [this tutorial](https://developer.paymentshub.com/blog/tutorial-nodejs-merchant-boarding-api) for step-by-step instructions.
 
 ## Completed App
-Your completed ecommerce app will look similar to the following:
+Your completed app will look similar to the following:
 
 ![payments-hub-node-merchant-boarding-api-merchant-application](https://github.com/PaymentsHubDevelopers/PaymentsHub-Node-Merchant-Boarding-API/assets/136620102/d4218e28-cd09-4cb6-8f80-774b50c9205b)
